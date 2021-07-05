@@ -1,5 +1,0 @@
-[{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target" : { "namespace": "android_app", "package_name": "com.apusmeet",
-                 "sha256_cert_fingerprints": ["18:F2:0C:29:F2:B1:7A:6C:DD:E9:4E:2B:82:0D:37:1D:1F:7D:F4:E6:DB:08:2F:AA:0C:9F:02:3C:F0:FB:6A:24"] }
-  }]
