@@ -19,6 +19,6 @@
         );  
     }
 
-    return $toolbarButtons;
+    echo $toolbarButtons;
 
 ?>
